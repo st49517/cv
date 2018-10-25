@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:center;font-family:calibri">Životopis</h1>
+<hr>
+
+<h3 style="font-family:calibri">Ing. Václav Moudrý</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>Email: vasek.moudro@gmail.com</li>
+  <li>Telefon: +420 723 597 164</li>
+  <li>Bydlištì: Kladno</li>
+  <li>Datum narození: 19. 8. 1989</li>
+</ul>
+<hr>
+
+<h3 style="font-family:calibri">Vzdìlání</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>2007 - 2009</li>
+  <li><strong>Fakulta elektrotechnická ÈVUT Praha - Elektrotechnika a informatika</strong></li>
+  <li>vysokoškolské</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>2003 - 2007</li>
+  <li><strong>Fakulta elektrotechnická ÈVUT Praha - Elektrotechnika (Automatizaèní technika)</strong></li>
+  <li>bakaláøské</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>1999 - 2003</li>
+  <li><strong>Støední prùmyslová škola a Vyšší odborná škola Kladno - Elektrotechnika</strong></li>
+  <li>SŠ s maturitou</li>
+</ul>
+<hr>
+
+<h3 style="font-family:calibri">Praxe</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>2012 - 2018</li>
+  <li><strong>Škoda auto</strong></li>
+  <li>Revizní technik ve výrobì</li>
+  <li>Zabezpeèení provozu výrobní linky</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>2009 - 2012</li>
+  <li><strong>Siemens</strong></li>
+  <li>Technik elektro</li>
+  <li>Práce s PLC</li>
+</ul>
+<hr>
+
+<h3 style="font-family:calibri">Jazykové znalosti</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li><strong>nìmèina</strong></li>
+  <li>støednì pokroèilá</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li><strong>angliètina</strong></li>
+  <li>pokroèilá</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li><strong>èeština</strong></li>
+  <li>výborná</li>
+</ul>
+<hr>
+
+<h3 style="font-family:calibri">Øidièský prùkaz</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>B - osobní auto</li>
+  <li>aktivní (30000 km za rok)</li>
+</ul>
+<hr>
+
+<h3 style="font-family:calibri">Technické znalosti</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li><strong>Operaèní systémy</strong></li>
+  <li>MS Windows XP / Vista / 7, Linux / BSD / Unix, MS Windows 8 / 10</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li><strong>Bìžné programy</strong></li>
+  <li>Textový editor (MS Word), Tabulkový kalkulátor (MS Excel), Prezentaèní program (MS PowerPoint), Internet / e-mail, Adobe Photoshop</li>
+</ul>
+<ul style="list-style-type:none;font-family:calibri">
+  <li><strong>Programovací jazyky</strong></li>
+  <li>(X)HTML, CSS, C / C++, C#, Java, MATLAB</li>
+</ul>
+<hr>
+
+<h3 style="font-family:calibri">Zájmy</h3>
+<ul style="list-style-type:none;font-family:calibri">
+  <li>Kolo, pøátelé, elektronika</li>
+</ul>
+<hr>
+
+</body>
+</html>
